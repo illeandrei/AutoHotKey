@@ -1,4 +1,6 @@
 ; semi-colon used for adding comments
+
+; remove window header
 #!Up:: ;Win+Alt+Up
     ;toggle title bar window style
     WinSet, Style, ^0x800000, A
