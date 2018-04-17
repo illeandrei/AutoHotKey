@@ -1,4 +1,5 @@
 # AutoHotkey
+past into .ahk file
 
 # Total Commander settings file
-copy into - C:\Users\aille\AppData\Roaming\GHISLER
+paste into - C:\Users\aille\AppData\Roaming\GHISLER
